@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# OCR outputs / temporary artifacts
+ocr_output*/
+*.tmp
+*.log
+*.txt
+
+# Common generated documents
+*_Master.docx
+ocr_combined.txt
+ocr_combined.md
+*_OCR.txt
+ocr_myanmar_*.txt
+
+# Local scan dataset / images
+*.png
+
+# Allow README media assets
+!media/
+!media/*.png
+!media/*.jpg
+!media/*.jpeg
+!media/*.gif
+!media/*.mp4
+!media/*.webm
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
