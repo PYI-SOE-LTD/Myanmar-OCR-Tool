@@ -34,6 +34,7 @@ ocr_myanmar_*.txt
 !media/*.gif
 !media/*.mp4
 !media/*.webm
+media/palette.png
 
 # OS/editor
 .DS_Store

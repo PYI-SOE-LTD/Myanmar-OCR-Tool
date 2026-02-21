@@ -87,9 +87,9 @@ python -B combine_docx_master.py "D:\path\to\docx_folder" --output "D:\path\Mast
 
 ## UI Preview
 
-![UI Screenshot](media/MM_OCR.png)
+![UI Demo Preview](media/MM_OCR_preview.gif)
 
-[Watch UI Demo Video](media/MM_OCR.mp4)
+[Download Full Demo Video (MP4)](media/MM_OCR.mp4)
 
 ## Notes for GitHub sharing
 
